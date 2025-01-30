@@ -9,11 +9,11 @@
 -- Find good free course
 
 ## Social
-- [ ] Create separete user on phone
-- [ ] Instagram 200 Followers  
--- [ ] Create Post  
+- [x] Create separete user on phone
+- [x] Instagram 200 Followers  
+-- [x] Create Post  
 - [ ] TikTok 200 Followers  
 -- [ ] Create Post  
-- [ ] Twitch 120 Followers  
+- [x] Twitch 120 Followers  (botted, thanks them)
 -- [ ] Complete all twitch steps
 - [ ] Youtube just upload a edited video, with anything and any quality, accept it, funk it
